@@ -1,0 +1,662 @@
+[
+  {
+    "quest": "Base form: \"Stand\", Past simple: ... ?",
+    "answers": ["Standed", "Stand", "Stood"],
+    "currect": "Stood",
+    "translation": "Turmoq"
+  },
+  {
+    "quest": "Base form: \"Teach\", Past simple: ... ?",
+    "answers": ["Teached", "Taught", "Teach"],
+    "currect": "Taught",
+    "translation": "O'rgatmoq"
+  },
+  {
+    "quest": "Base form: \"Dig\", Past simple: ... ?",
+    "answers": ["Diged", "Dug", "Dig"],
+    "currect": "Dug",
+    "translation": "qazimoq"
+  },
+  {
+    "quest": "Base form: \"Drink\", Past participle: ... ?",
+    "answers": ["Drunk", "Drank", "Drink"],
+    "currect": "Drunk",
+    "translation": "Ichmoq"
+  },
+  {
+    "quest": "Base form: \"Come\", Past participle: ... ?",
+    "answers": ["Catch", "Came", "Come"],
+    "currect": "Come",
+    "translation": "Kelmoq"
+  },
+  {
+    "quest": "Base form: \"See\", Past participle: ... ?",
+    "answers": ["Seen", "Saw", "See"],
+    "currect": "Seen",
+    "translation": "Qaramoq"
+  },
+  {
+    "quest": "Base form: \"Fly\", Past participle: ... ?",
+    "answers": ["Fly", "Flew", "Flown"],
+    "currect": "Flown",
+    "translation": "Uchmoq"
+  },
+  {
+    "quest": "Base form: \"Put\", Past simple: ... ?",
+    "answers": ["Puted", "Put", "Pay"],
+    "currect": "Put",
+    "translation": "Qo'ymoq"
+  },
+  {
+    "quest": "Base form: \"Do\", Past simple: ... ?",
+    "answers": ["Done", "Did", "Do"],
+    "currect": "Did",
+    "translation": "Bajarmoq"
+  },
+  {
+    "quest": "Base form: \"Meet\", Past simple: ... ?",
+    "answers": ["Met", "Meeted", "Meet"],
+    "currect": "Met",
+    "translation": "Tanishmoq"
+  },
+  {
+    "quest": "Base form: \"Ring\", Past participle: ... ?",
+    "answers": ["Ring", "Rung", "Rang"],
+    "currect": "Rung",
+    "translation": "Jaranglamoq"
+  },
+  {
+    "quest": "Base form: \"Get\", Past participle: ... ?",
+    "answers": ["Got", "Got/Gotten", "Get"],
+    "currect": "Got/Gotten",
+    "translation": "Olmoq"
+  },
+  {
+    "quest": "Base form: \"Run\", Past participle: ... ?",
+    "answers": ["Run", "Ran", "Read"],
+    "currect": "Run",
+    "translation": "Yugurmoq"
+  },
+  {
+    "quest": "Base form: \"Grow\", Past simple: ... ?",
+    "answers": ["Grown", "Grew", "Grow"],
+    "currect": "Grew",
+    "translation": "O'smoq"
+  },
+  {
+    "quest": "Base form: \"Sing\", Past participle: ... ?",
+    "answers": ["Sing", "Sung", "Sang"],
+    "currect": "Sung",
+    "translation": "Qo'shiq aytmoq"
+  },
+  {
+    "quest": "Base form: \"Begin\", Past participle: ... ?",
+    "answers": ["Begin", "Begun", "Began"],
+    "currect": "Begun",
+    "translation": "Boshlamoq"
+  },
+  {
+    "quest": "Base form: \"Hit\", Past participle: ... ?",
+    "answers": ["Hit", "Hang", "Hited"],
+    "currect": "Hit",
+    "translation": "Urmoq"
+  },
+  {
+    "quest": "Base form: \"Learn\", Past participle: ... ?",
+    "answers": ["Learn", "Learned", "Learnt/Learned"],
+    "currect": "Learnt/Learned",
+    "translation": "O'rganmoq"
+  },
+  {
+    "quest": "Base form: \"Rise\", Past simple: ... ?",
+    "answers": ["Risen", "Rose", "Rise"],
+    "currect": "Rose",
+    "translation": "Ko'tarilmoq"
+  },
+  {
+    "quest": "Base form: \"Fall\", Past participle: ... ?",
+    "answers": ["Fallen", "Fall", "Fell"],
+    "currect": "Fallen",
+    "translation": "Yiqilmoq"
+  },
+  {
+    "quest": "Base form: \"Spring\", Past participle: ... ?",
+    "answers": ["Spring", "Sprang", "Sprung"],
+    "currect": "Sprung",
+    "translation": "Sakramoq"
+  },
+  {
+    "quest": "Base form: \"Feed\", Past simple: ... ?",
+    "answers": ["Feeded", "Fed", "Feed"],
+    "currect": "Fed",
+    "translation": "Oziqlantirmoq"
+  },
+  {
+    "quest": "Base form: \"Give\", Past participle: ... ?",
+    "answers": ["Give", "Given", "Gave"],
+    "currect": "Given",
+    "translation": "Bermoq"
+  },
+  {
+    "quest": "Base form: \"Wind\", Past participle: ... ?",
+    "answers": ["Wound", "Wind", "Winded"],
+    "currect": "Wound",
+    "translation": "Shamol"
+  },
+  {
+    "quest": "Base form: \"Hang\", Past participle: ... ?",
+    "answers": ["Hanged", "Hang", "Hung"],
+    "currect": "Hung",
+    "translation": "Osmoq"
+  },
+  {
+    "quest": "Base form: \"Grow\", Past simple: ... ?",
+    "answers": ["Grew", "Grow", "Grown"],
+    "currect": "Grew",
+    "translation": "O'smoq"
+  },
+  {
+    "quest": "Base form: \"Sit\", Past simple: ... ?",
+    "answers": ["Sit", "Sited", "Sat"],
+    "currect": "Sat",
+    "translation": "O'tirmoq"
+  },
+  {
+    "quest": "Base form: \"Bite\", Past simple: ... ?",
+    "answers": ["Bit", "Bitten", "Bite"],
+    "currect": "Bit",
+    "translation": "Tishlamoq"
+  },
+  {
+    "quest": "Base form: \"Do\", Past simple: ... ?",
+    "answers": ["Done", "Do", "Did"],
+    "currect": "Did",
+    "translation": "Bajarmoq"
+  },
+  {
+    "quest": "Base form: \"Lead\", Past simple: ... ?",
+    "answers": ["Lead", "Led", "Leaded"],
+    "currect": "Led",
+    "translation": "Boshlab yurmoq"
+  },
+  {
+    "quest": "Base form: \"Make\", Past participle: ... ?",
+    "answers": ["Makeed", "Make", "Made"],
+    "currect": "Made",
+    "translation": "Yasamoq"
+  },
+  {
+    "quest": "Base form: \"Drive\", Past simple: ... ?",
+    "answers": ["Drive", "Drove", "Driven"],
+    "currect": "Drove",
+    "translation": "Haydamoq"
+  },
+  {
+    "quest": "Base form: \"Mean\", Past simple: ... ?",
+    "answers": ["Mean", "Meant", "Meaned"],
+    "currect": "Meant",
+    "translation": "Anglatmoq"
+  },
+  {
+    "quest": "Base form: \"Fly\", Past simple: ... ?",
+    "answers": ["Flew", "Fly", "Flown"],
+    "currect": "Flew",
+    "translation": "Uchmoq"
+  },
+  {
+    "quest": "Base form: \"Bite\", Past simple: ... ?",
+    "answers": ["Bite", "Bit", "Bitten"],
+    "currect": "Bit",
+    "translation": "Tishlamoq"
+  },
+  {
+    "quest": "Base form: \"Lend\", Past simple: ... ?",
+    "answers": ["Lend", "Lended", "Lent"],
+    "currect": "Lent",
+    "translation": "Qarz bermoq"
+  },
+  {
+    "quest": "Base form: \"Ride\", Past participle: ... ?",
+    "answers": ["Ride", "Ridden", "Rode"],
+    "currect": "Ridden",
+    "translation": "Minmoq"
+  },
+  {
+    "quest": "Base form: \"Begin\", Past simple: ... ?",
+    "answers": ["Begun", "Began", "Begin"],
+    "currect": "Began",
+    "translation": "Boshlamoq"
+  },
+  {
+    "quest": "Base form: \"Forgive\", Past participle: ... ?",
+    "answers": ["Forgive", "Forgave", "Forgiven"],
+    "currect": "Forgiven",
+    "translation": "Kechirmoq"
+  },
+  {
+    "quest": "Base form: \"Come\", Past simple: ... ?",
+    "answers": ["Catch", "Come", "Came"],
+    "currect": "Came",
+    "translation": "Kelmoq"
+  },
+  {
+    "quest": "Base form: \"Understand\", Past participle: ... ?",
+    "answers": ["Understanded", "Understand", "Understood"],
+    "currect": "Understood",
+    "translation": "Tushunmoq"
+  },
+  {
+    "quest": "Base form: \"Hold\", Past participle: ... ?",
+    "answers": ["Holded", "Held", "Hold"],
+    "currect": "Held",
+    "translation": "Tutmoq"
+  },
+  {
+    "quest": "Base form: \"Buy\", Past simple: ... ?",
+    "answers": ["Buyed", "Bought", "Buy"],
+    "currect": "Bought",
+    "translation": "Sotib olimoq"
+  },
+  {
+    "quest": "Base form: \"Grow\", Past participle: ... ?",
+    "answers": ["Grow", "Grew", "Grown"],
+    "currect": "Grown",
+    "translation": "O'smoq"
+  },
+  {
+    "quest": "Base form: \"Hurt\", Past participle: ... ?",
+    "answers": ["Hang", "Hurt", "Hurted"],
+    "currect": "Hurt",
+    "translation": "Og'ritmoq"
+  },
+  {
+    "quest": "Base form: \"Leave\", Past simple: ... ?",
+    "answers": ["Leaveed", "Left", "Leave"],
+    "currect": "Left",
+    "translation": "Ketmoq"
+  },
+  {
+    "quest": "Base form: \"Light\", Past simple: ... ?",
+    "answers": ["Lit", "Lighted", "Light"],
+    "currect": "Lit",
+    "translation": "Nur sochmoq"
+  },
+  {
+    "quest": "Base form: \"Sink\", Past simple: ... ?",
+    "answers": ["Sank", "Sink", "Sunk"],
+    "currect": "Sank",
+    "translation": "Cho'kmoq"
+  },
+  {
+    "quest": "Base form: \"Sell\", Past participle: ... ?",
+    "answers": ["Sell", "Sold", "Selled"],
+    "currect": "Sold",
+    "translation": "Sotmoq"
+  },
+  {
+    "quest": "Base form: \"Ring\", Past simple: ... ?",
+    "answers": ["Rung", "Ring", "Rang"],
+    "currect": "Rang",
+    "translation": "Jaranglamoq"
+  },
+  {
+    "quest": "Base form: \"Hold\", Past simple: ... ?",
+    "answers": ["Holded", "Hold", "Held"],
+    "currect": "Held",
+    "translation": "Tutmoq"
+  },
+  {
+    "quest": "Base form: \"Shine\", Past simple: ... ?",
+    "answers": ["Shone", "Shineed", "Shine"],
+    "currect": "Shone",
+    "translation": "Charaqlamoq"
+  },
+  {
+    "quest": "Base form: \"Grow\", Past simple: ... ?",
+    "answers": ["Grown", "Grew", "Grow"],
+    "currect": "Grew",
+    "translation": "O'smoq"
+  },
+  {
+    "quest": "Base form: \"Lead\", Past simple: ... ?",
+    "answers": ["Leaded", "Lead", "Led"],
+    "currect": "Led",
+    "translation": "Boshlab yurmoq"
+  },
+  {
+    "quest": "Base form: \"Ring\", Past participle: ... ?",
+    "answers": ["Rung", "Rang", "Ring"],
+    "currect": "Rung",
+    "translation": "Jaranglamoq"
+  },
+  {
+    "quest": "Base form: \"Break\", Past participle: ... ?",
+    "answers": ["Break", "Broke", "Broken"],
+    "currect": "Broken",
+    "translation": "Sinmoq"
+  },
+  {
+    "quest": "Base form: \"Stand\", Past participle: ... ?",
+    "answers": ["Stood", "Stand", "Standed"],
+    "currect": "Stood",
+    "translation": "Turmoq"
+  },
+  {
+    "quest": "Base form: \"See\", Past participle: ... ?",
+    "answers": ["Seen", "See", "Saw"],
+    "currect": "Seen",
+    "translation": "Qaramoq"
+  },
+  {
+    "quest": "Base form: \"Hurt\", Past participle: ... ?",
+    "answers": ["Hurted", "Hurt", "Hang"],
+    "currect": "Hurt",
+    "translation": "Og'ritmoq"
+  },
+  {
+    "quest": "Base form: \"Stink\", Past simple: ... ?",
+    "answers": ["Stunk", "Stink", "Stank/Stunk"],
+    "currect": "Stank/Stunk",
+    "translation": "Sasimoq"
+  },
+  {
+    "quest": "Base form: \"Bite\", Past participle: ... ?",
+    "answers": ["Bite", "Bitten", "Bit"],
+    "currect": "Bitten",
+    "translation": "Tishlamoq"
+  },
+  {
+    "quest": "Base form: \"Forget\", Past participle: ... ?",
+    "answers": ["Forgotten", "Forget", "Forgot"],
+    "currect": "Forgotten",
+    "translation": "Unutmoq"
+  },
+  {
+    "quest": "Base form: \"Sing\", Past participle: ... ?",
+    "answers": ["Sung", "Sing", "Sang"],
+    "currect": "Sung",
+    "translation": "Qo'shiq aytmoq"
+  },
+  {
+    "quest": "Base form: \"Wake\", Past participle: ... ?",
+    "answers": ["Woke", "Wake", "Woken"],
+    "currect": "Woken",
+    "translation": "Uyg'onmoq"
+  },
+  {
+    "quest": "Base form: \"Speak\", Past simple: ... ?",
+    "answers": ["Spoke", "Speak", "Spoken"],
+    "currect": "Spoke",
+    "translation": "Gapirmoq"
+  },
+  {
+    "quest": "Base form: \"Stick\", Past simple: ... ?",
+    "answers": ["Stuck", "Stick", "Sticked"],
+    "currect": "Stuck",
+    "translation": "Yopishtirmoq"
+  },
+  {
+    "quest": "Base form: \"Sweep\", Past simple: ... ?",
+    "answers": ["Sweep", "Sweeped", "Swept"],
+    "currect": "Swept",
+    "translation": "Supurmoq"
+  },
+  {
+    "quest": "Base form: \"Show\", Past participle: ... ?",
+    "answers": ["Show", "Shown", "Showed"],
+    "currect": "Shown",
+    "translation": "Ko'rsatmoq"
+  },
+  {
+    "quest": "Base form: \"Tell\", Past participle: ... ?",
+    "answers": ["Told", "Tell", "Telled"],
+    "currect": "Told",
+    "translation": "Aytmoq"
+  },
+  {
+    "quest": "Base form: \"Burst\", Past participle: ... ?",
+    "answers": ["Bursted", "Be", "Burst"],
+    "currect": "Burst",
+    "translation": "Yoritmoq"
+  },
+  {
+    "quest": "Base form: \"Hang\", Past simple: ... ?",
+    "answers": ["Hung", "Hang", "Hanged"],
+    "currect": "Hung",
+    "translation": "Osmoq"
+  },
+  {
+    "quest": "Base form: \"Pay\", Past participle: ... ?",
+    "answers": ["Pay", "Paid", "Payed"],
+    "currect": "Paid",
+    "translation": "To'lamoq"
+  },
+  {
+    "quest": "Base form: \"Lend\", Past simple: ... ?",
+    "answers": ["Lent", "Lended", "Lend"],
+    "currect": "Lent",
+    "translation": "Qarz bermoq"
+  },
+  {
+    "quest": "Base form: \"Throw\", Past simple: ... ?",
+    "answers": ["Threw", "Thrown", "Throw"],
+    "currect": "Threw",
+    "translation": "Otmoq"
+  },
+  {
+    "quest": "Base form: \"Sting\", Past simple: ... ?",
+    "answers": ["Stinged", "Stung", "Sting"],
+    "currect": "Stung",
+    "translation": "Chaqmoq (ari)"
+  },
+  {
+    "quest": "Base form: \"Sweep\", Past simple: ... ?",
+    "answers": ["Sweep", "Swept", "Sweeped"],
+    "currect": "Swept",
+    "translation": "Supurmoq"
+  },
+  {
+    "quest": "Base form: \"Split\", Past participle: ... ?",
+    "answers": ["Split", "Say", "Splited"],
+    "currect": "Split",
+    "translation": "Bo'lmoq"
+  },
+  {
+    "quest": "Base form: \"Draw\", Past participle: ... ?",
+    "answers": ["Drawn", "Drew", "Draw"],
+    "currect": "Drawn",
+    "translation": "Chizmoq"
+  },
+  {
+    "quest": "Base form: \"Dig\", Past participle: ... ?",
+    "answers": ["Dig", "Dug", "Diged"],
+    "currect": "Dug",
+    "translation": "qazimoq"
+  },
+  {
+    "quest": "Base form: \"Learn\", Past participle: ... ?",
+    "answers": ["Learned", "Learnt/Learned", "Learn"],
+    "currect": "Learnt/Learned",
+    "translation": "O'rganmoq"
+  },
+  {
+    "quest": "Base form: \"Shrink\", Past simple: ... ?",
+    "answers": ["Shrank", "Shrink", "Shrunk"],
+    "currect": "Shrank",
+    "translation": "Qisqartmoq"
+  },
+  {
+    "quest": "Base form: \"Spring\", Past simple: ... ?",
+    "answers": ["Spring", "Sprung", "Sprang"],
+    "currect": "Sprang",
+    "translation": "Sakramoq"
+  },
+  {
+    "quest": "Base form: \"Stick\", Past simple: ... ?",
+    "answers": ["Stick", "Sticked", "Stuck"],
+    "currect": "Stuck",
+    "translation": "Yopishtirmoq"
+  },
+  {
+    "quest": "Base form: \"Spread\", Past participle: ... ?",
+    "answers": ["Say", "Spread", "Spreaded"],
+    "currect": "Spread",
+    "translation": "Tarqalmoq"
+  },
+  {
+    "quest": "Base form: \"Sing\", Past participle: ... ?",
+    "answers": ["Sing", "Sung", "Sang"],
+    "currect": "Sung",
+    "translation": "Qo'shiq aytmoq"
+  },
+  {
+    "quest": "Base form: \"Bet\", Past simple: ... ?",
+    "answers": ["Beted", "Bet/Betted", "Bet"],
+    "currect": "Bet/Betted",
+    "translation": "Garov o'ynamoq"
+  },
+  {
+    "quest": "Base form: \"Sing\", Past participle: ... ?",
+    "answers": ["Sang", "Sing", "Sung"],
+    "currect": "Sung",
+    "translation": "Qo'shiq aytmoq"
+  },
+  {
+    "quest": "Base form: \"Hit\", Past simple: ... ?",
+    "answers": ["Hited", "Hit", "Hang"],
+    "currect": "Hit",
+    "translation": "Urmoq"
+  },
+  {
+    "quest": "Base form: \"Become\", Past participle: ... ?",
+    "answers": ["Be", "Became", "Become"],
+    "currect": "Become",
+    "translation": "Bo'lmoq"
+  },
+  {
+    "quest": "Base form: \"Tear\", Past participle: ... ?",
+    "answers": ["Tear", "Torn", "Tore"],
+    "currect": "Torn",
+    "translation": "Yirtmoq"
+  },
+  {
+    "quest": "Base form: \"Split\", Past participle: ... ?",
+    "answers": ["Splited", "Say", "Split"],
+    "currect": "Split",
+    "translation": "Bo'lmoq"
+  },
+  {
+    "quest": "Base form: \"Swear\", Past participle: ... ?",
+    "answers": ["Swore", "Swear", "Sworn"],
+    "currect": "Sworn",
+    "translation": "Qasam ichmoq"
+  },
+  {
+    "quest": "Base form: \"Shine\", Past participle: ... ?",
+    "answers": ["Shine", "Shineed", "Shone"],
+    "currect": "Shone",
+    "translation": "Charaqlamoq"
+  },
+  {
+    "quest": "Base form: \"Sing\", Past simple: ... ?",
+    "answers": ["Sing", "Sang", "Sung"],
+    "currect": "Sang",
+    "translation": "Qo'shiq aytmoq"
+  },
+  {
+    "quest": "Base form: \"Dig\", Past participle: ... ?",
+    "answers": ["Diged", "Dig", "Dug"],
+    "currect": "Dug",
+    "translation": "qazimoq"
+  },
+  {
+    "quest": "Base form: \"Go\", Past simple: ... ?",
+    "answers": ["Go", "Went", "Gone"],
+    "currect": "Went",
+    "translation": "Bormoq"
+  },
+  {
+    "quest": "Base form: \"Come\", Past simple: ... ?",
+    "answers": ["Come", "Came", "Catch"],
+    "currect": "Came",
+    "translation": "Kelmoq"
+  },
+  {
+    "quest": "Base form: \"Think\", Past simple: ... ?",
+    "answers": ["Thinked", "Think", "Thought"],
+    "currect": "Thought",
+    "translation": "O'ylamoq"
+  },
+  {
+    "quest": "Base form: \"Eat\", Past simple: ... ?",
+    "answers": ["Ate", "Eat", "Eaten"],
+    "currect": "Ate",
+    "translation": "Yemoq"
+  },
+  {
+    "quest": "Base form: \"Drive\", Past simple: ... ?",
+    "answers": ["Drove", "Drive", "Driven"],
+    "currect": "Drove",
+    "translation": "Haydamoq"
+  },
+  {
+    "quest": "Base form: \"Sting\", Past simple: ... ?",
+    "answers": ["Stung", "Sting", "Stinged"],
+    "currect": "Stung",
+    "translation": "Chaqmoq (ari)"
+  },
+  {
+    "quest": "Base form: \"Go\", Past participle: ... ?",
+    "answers": ["Go", "Gone", "Went"],
+    "currect": "Gone",
+    "translation": "Bormoq"
+  },
+  {
+    "quest": "Base form: \"Make\", Past simple: ... ?",
+    "answers": ["Makeed", "Made", "Make"],
+    "currect": "Made",
+    "translation": "Yasamoq"
+  },
+  {
+    "quest": "Base form: \"Sink\", Past participle: ... ?",
+    "answers": ["Sank", "Sunk", "Sink"],
+    "currect": "Sunk",
+    "translation": "Cho'kmoq"
+  },
+  {
+    "quest": "Base form: \"Blow\", Past simple: ... ?",
+    "answers": ["Blow", "Blown", "Blew"],
+    "currect": "Blew",
+    "translation": "Esmoq"
+  },
+  {
+    "quest": "Base form: \"Dig\", Past simple: ... ?",
+    "answers": ["Diged", "Dug", "Dig"],
+    "currect": "Dug",
+    "translation": "qazimoq"
+  },
+  {
+    "quest": "Base form: \"Put\", Past participle: ... ?",
+    "answers": ["Pay", "Put", "Puted"],
+    "currect": "Put",
+    "translation": "Qo'ymoq"
+  },
+  {
+    "quest": "Base form: \"Eat\", Past simple: ... ?",
+    "answers": ["Eaten", "Ate", "Eat"],
+    "currect": "Ate",
+    "translation": "Yemoq"
+  },
+  {
+    "quest": "Base form: \"Swing\", Past simple: ... ?",
+    "answers": ["Swung", "Swing", "Swinged"],
+    "currect": "Swung",
+    "translation": "Tebratmoq"
+  },
+  {
+    "quest": "Base form: \"Throw\", Past simple: ... ?",
+    "answers": ["Thrown", "Threw", "Throw"],
+    "currect": "Threw",
+    "translation": "Otmoq"
+  }
+]
